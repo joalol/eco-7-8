@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+</body>
+</html>
+<form action= "index.html"method="get" target =  "_blanck">
+    <h3>ficha de inscripcion </h3>
+    <label for ="dni">dni </label><br>
+    <input type ="number" name ="dni"><br>
+    <label for="nombre"> nombre </label><br>
+    <input type="text" name= "nombre"><br>
+    <label for="nombre"> apellido </label><br>
+    <input type="text " name = "apellido"><br>
+    <label for="edad">edad</label><br>
+    <input type="number" name="edad" ><br><br>
+
+
+    <input type="sumbit" value = "enviar">
+
+</form>
+</body>
+</html>
